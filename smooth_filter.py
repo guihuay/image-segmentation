@@ -1,3 +1,4 @@
+# coding: utf-8
 from scipy.signal import convolve2d
 from numpy import *
 

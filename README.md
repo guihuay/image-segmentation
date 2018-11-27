@@ -1,2 +1,3 @@
-A python implementation of the algorithm described in the paper [Efficient Graph-Based Image Segmentation](http://www.cs.brown.edu/~pff/segment/).
-
+## 基于图的图像分割
+### 参考论文
+efficient graph based image segmentation
